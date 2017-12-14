@@ -1,0 +1,12 @@
+geometry_msgs/PoseArray path
+string world_frame
+string tcp_frame
+string[] names
+float64 dt
+string underdefinedAxis
+
+---
+
+trajectory_msgs/JointTrajectory plan
+float64 computeTime
+int64 pointCount
