@@ -19,6 +19,7 @@ find_package(catkin REQUIRED COMPONENTS
   visualization_msgs
   eigen_conversions
   tf
+  sensor_msgs
 )
 
 find_package(Eigen REQUIRED)
@@ -84,6 +85,7 @@ find_package(Eigen REQUIRED)
    geometry_msgs
    trajectory_msgs
    visualization_msgs
+   sensor_msgs
  )
 
 ################################################

@@ -4,6 +4,8 @@ string tcp_frame
 string[] names
 float64 dt
 string underdefinedAxis
+float64 interpolation
+sensor_msgs/JointState joint_states
 
 ---
 
